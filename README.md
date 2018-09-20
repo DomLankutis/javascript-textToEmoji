@@ -1,7 +1,7 @@
 # Javascript-textToEmoji
 
 A small function that will convert normal string to emoji text.
-**This does required p5.js**
+**This does require p5.js**
 
 ## How To Use
 
